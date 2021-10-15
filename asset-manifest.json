@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactLocalStore/static/css/main.fa3f4e5c.chunk.css",
+    "main.js": "/ReactLocalStore/static/js/main.d32843b0.chunk.js",
+    "main.js.map": "/ReactLocalStore/static/js/main.d32843b0.chunk.js.map",
+    "runtime-main.js": "/ReactLocalStore/static/js/runtime-main.c793b373.js",
+    "runtime-main.js.map": "/ReactLocalStore/static/js/runtime-main.c793b373.js.map",
+    "static/js/2.387a06d8.chunk.js": "/ReactLocalStore/static/js/2.387a06d8.chunk.js",
+    "static/js/2.387a06d8.chunk.js.map": "/ReactLocalStore/static/js/2.387a06d8.chunk.js.map",
+    "static/js/3.cbc2301f.chunk.js": "/ReactLocalStore/static/js/3.cbc2301f.chunk.js",
+    "static/js/3.cbc2301f.chunk.js.map": "/ReactLocalStore/static/js/3.cbc2301f.chunk.js.map",
+    "index.html": "/ReactLocalStore/index.html",
+    "static/css/main.fa3f4e5c.chunk.css.map": "/ReactLocalStore/static/css/main.fa3f4e5c.chunk.css.map",
+    "static/js/2.387a06d8.chunk.js.LICENSE.txt": "/ReactLocalStore/static/js/2.387a06d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c793b373.js",
+    "static/js/2.387a06d8.chunk.js",
+    "static/css/main.fa3f4e5c.chunk.css",
+    "static/js/main.d32843b0.chunk.js"
+  ]
+}
